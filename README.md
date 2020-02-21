@@ -9,6 +9,6 @@ Jag har lärt mig mer om att skapa egna datatyper och förstå mig på hur man s
 Jag har även kommit på en del små saker som jag inte kunde så bra innan men som jag kan nu. 
 Jag tror jag skulle kunna göra något liknande program igen därför nu känns det som jag kan det ganska bra.
 
-För mer information om hur programmet fungerar och hur jag skrivit det, läs kommentarerna i koden. Jag har skrivit kommentar till varje mening.
+För mer information om hur programmet fungerar och hur jag skrivit det, läs kommentarerna i koden. Jag har skrivit kommentar till varje mening som förklarar vad den koden gör.
 
 Pierre Lundström
