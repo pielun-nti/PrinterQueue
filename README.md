@@ -17,8 +17,11 @@ Jag har använt en dator med IntelliJ och för att få tester att fungera i Inte
 Jag planerade genom att försöka lösa ett problem i taget och sedan testköra det för att se så att det fungerar.
 
 Lektion 1: Tänka igenom vad det är jag ska göra och hur jag ska göra det. Och det var en genomgång då.
+
 Lektion 2: Började koda skelettet av kö, länkadlista och nod systemen (grunddelarna).
+
 Lektion 3: Programmerade mer och genomförde tester på det jag skrivit hittils.
+
 Lektion 4: Skrev färdigt programmet och genomförde tester och kollade med läraren och fick hjälp med en fråga jag hade.
 
 # 1.4 Positiva erfarenheter
