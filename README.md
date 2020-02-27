@@ -3,6 +3,7 @@
 # Skrivarkö
 
 # 1. Inledning
+Detta program är en skrivarkö.
 
 # 1.1 Syfte/Mål
 Arbetets syfte och mål är att kunna skriva text till en länkadlista och att det är inbyggt med ett kösystem och ett nodsystem.
